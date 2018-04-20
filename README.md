@@ -1,4 +1,4 @@
-### You can modify the  constants file adding the flexi config
+### You can modify the  constants file for adding the flexi config
 
 ### Currently I have added the support for the form submission for the two configurations name and state only 
 
