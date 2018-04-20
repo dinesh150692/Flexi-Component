@@ -15,7 +15,13 @@ module.exports = Object.freeze({
                     "Kerala",
                     "Tamil Nadu"
                 ]
-            }
+            },
+            {      
+                "name":"personnumber",
+                "label":"Person's No.",
+                "type":"Number",
+            },
+
         ]
     }
 });

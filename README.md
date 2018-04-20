@@ -1,9 +1,5 @@
 ### You can modify the  constants file for adding the flexi config
 
-### Currently I have added the support for the form submission for the two configurations name and state only 
-
-### Incase of Adding more item configuration, it needs some modification in the button to be not disabled and allow the submit action in case of any input.
-
 ## Available Scripts
 
 In the project directory, you can run:

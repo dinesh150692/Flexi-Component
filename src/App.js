@@ -12,13 +12,7 @@ class App extends Component {
   }
 
   onFlexiSubmit = (value) => {
-    if(value.name === '' || value.state === ''){
-      let config = this.state.config;
-        config.error = 'Please Enter Value for all the fields';
-        this.setState({config: Object.assign({},config)});
-    }else{
       this.setState({formSubmissionSuccess: true});
-    }
   }
 
   render() {
